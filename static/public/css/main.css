@@ -64,10 +64,11 @@
 
 .content-with-background-color{
     min-height: 180px;
-    background-color: #eeeeee;
+    text-align: center;
+    background-color: #20b92d;
     font-size: 1.5em;
-    border: 1px solid #eeeeee;
-    padding: 10px 15px 10px 20px;
+    border: 1px solid #c71a1a;
+    padding: 200px 200px 200px 200px;
     /*margin: 10px;*/
     color: #000000;
     opacity: .8;
